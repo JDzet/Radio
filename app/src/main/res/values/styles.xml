@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#FF000000</item>
+        <item name="fontFamily">@font/architects_daughter</item>
+    </style>
+    <style name="ButtonS">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#FF000000</item>
+        <item name="fontFamily">@font/architects_daughter</item>
+        <item name="backgroundColor">#FF000000</item>
+    </style>
+
+</resources>
